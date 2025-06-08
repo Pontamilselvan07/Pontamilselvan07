@@ -8,7 +8,7 @@ Electronics Engneering Student
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
