@@ -2,7 +2,7 @@
 
 Electronics Engneering Student
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUxbTV2dnRmaGVtcjlpbTZjNWN6bnQ2a2poNHFubHd0bWdicG94YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">                                            
-- 🌱 I’m a Python and Java eveloper
+- 🌱 I’m a JAVA & SQL developer
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/pontamilselvan07)
 
